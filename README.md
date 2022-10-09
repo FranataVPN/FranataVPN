@@ -26,7 +26,8 @@
 
 
 ```
-▶️YouTube: Franata775
+🟥 YouTube: Franata775
+🟦 Grup Telegram: https://t.me/+3gMtItbNgAwzZjVl
 ```
 
 [![My Skills](https://skillicons.dev/icons?i=java,linux,js,html,css,python,php,bash,azure,docker,gcp)](https://skillicons.dev)
