@@ -8,7 +8,7 @@
 
   ## (MY YOUTUBE)
 
-[![LeetHub](https://github.com/FranataVPN/FranataVPN/blob/main/20221010_001912.png)](https://youtu.be/NvKR9yM0G3E "LeetHub saves lives!")
+[![LeetHub](https://github.com/FranataVPN/FranataVPN/blob/main/20221010_001912.png)](https://youtube.com/c/FRANATA775 "LeetHub saves lives!")
 
 
 
