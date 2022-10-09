@@ -10,5 +10,39 @@
 
 [![LeetHub](https://github.com/FranataVPN/FranataVPN/blob/main/20221010_001912.png)](https://youtube.com/c/FRANATA775 "LeetHub saves lives!")
 
+<p align="center">
+
+<a href="https://github.com/FranataVPN">
+
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FranataVPN&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FranataVPN&layout=compact&langs_count=8&theme=algolia"/>
+
+</a>
+</p>
+
+
+
+
+
+```
+```
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
