@@ -26,9 +26,12 @@
 
 
 ```
--▶️YouTube: Franata775
+▶️YouTube: Franata775
 ```
+
 [![My Skills](https://skillicons.dev/icons?i=java,linux,js,html,css,python,php,bash,azure,docker,gcp)](https://skillicons.dev)
+
+
 
 
 
